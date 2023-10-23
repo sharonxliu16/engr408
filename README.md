@@ -1,4 +1,4 @@
-Overview: 
+**Overview:** 
 
  
 
@@ -50,7 +50,7 @@ system in order to apply rules.
 
  
 #
-Processing and Rules: 
+**Processing and Rules:**
 
 Processing for ADSB detections and Optical detections can be handled by a basic embedded 
 
@@ -61,8 +61,8 @@ The system could be tested and refined with a more conventional personal compute
 testing. 
 
  
-
-ADSB Detections and Rules: 
+#
+**ADSB Detections and Rules:** 
 
  
 
@@ -97,8 +97,8 @@ A Runway_Clear token will be issued when a climbing aircraft is detected at 200 
 taking off. 
 
  
-
-Optical Detections and Rules: 
+#
+**Optical Detections and Rules:** 
 
  
 
@@ -115,8 +115,8 @@ A Runway_Clear token will be issued once that vehicle is detected leaving the ru
 In addition, a Runway_Clear token will be issued when a landing aircraft is detected leaving the runway. 
 
  
-
-Lighting Control: 
+#
+**Lighting Control:** 
 
  
 
@@ -129,8 +129,8 @@ systems will always assume the more severe state, which cannot be removed until 
 is indicated.  
 
  
-
-Inputs to Runway Incursion Protection System: 
+ #
+**Inputs to Runway Incursion Protection System:** 
 
   
 
@@ -145,8 +145,8 @@ Aircraft_Leaving_Runway(from ADSB ground receiver system)
 These inputs assume a local ground based ADSB receiver system that can detect ground and air based ADSB transmissions over 1090 Mhz Extended Squiter and 978 Mhz UAT. 
 
   
-
-Outputs from Runway Incursion Protection System: 
+#
+**Outputs from Runway Incursion Protection System:** 
 
   
 
