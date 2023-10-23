@@ -49,7 +49,7 @@ determinations. Similarly, the Optical detectors will pass all detections onto t
 system in order to apply rules. 
 
  
-
+#
 Processing and Rules: 
 
 Processing for ADSB detections and Optical detections can be handled by a basic embedded 
